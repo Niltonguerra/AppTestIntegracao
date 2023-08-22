@@ -15,3 +15,14 @@ return a/b;
 }
 
 module.exports = { soma, subtracao, divisao, multiplicacao };
+
+
+
+// comando interessantes para lembrar:
+
+// intalar o jest
+// npm install --save-dev jest
+// 
+// execulta o teste:
+// npx jest
+
